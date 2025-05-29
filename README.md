@@ -1,2 +1,7 @@
 # dwm-patches
-Patches that I've made for dwm
+Some of my dwl patches ported to dwm.
+
+btrtile-gaps depends on uselessgaps patch.
+[https://dwm.suckless.org/patches/uselessgap/](https://dwm.suckless.org/patches/uselessgap/)
+
+For more information about the innder workings checkout the dwl repo. [dwl-patches](https://github.com/julmajustus/dwl-patches)
